@@ -2,4 +2,4 @@
 
 
 
-Made with Hack Club Spaces 💖
+A nonprofit site
